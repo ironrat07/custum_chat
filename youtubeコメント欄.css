@@ -67,7 +67,7 @@ background:transparent;
 /*本文背景*/
 
 yt-live-chat-text-message-renderer #message{
-background-image: url(https://cdn.discordapp.com/attachments/1142801979865845860/1191353105514766366/175_20240101211136.png?ex=65a5210a&is=6592ac0a&hm=b8fda772eaecc5fc40563a3beab22b48bd2c4bb34589c2afe7a8a721a95470db&);
+background-image: url(https://github.com/ironrat07/custum_chat/blob/main/hexbubble_even.png);
 background-repeat: no-repeat;
 background-size: 100% 330%;
 background-position: 0% 58%;
@@ -79,7 +79,7 @@ padding-bottom: 20px;
 
 /*一個おき指定*/
 yt-live-chat-app yt-live-chat-text-message-renderer:nth-child(odd) #message {
-background-image: url(https://cdn.discordapp.com/attachments/1142801979865845860/1191380328259006494/175_20240101225951.png?ex=65a53a65&is=6592c565&hm=6b5b0253ba27beeefa45ec57e790cef45df6f3d50572bf4428b6a585603cec19&);
+background-image: url(https://github.com/ironrat07/custum_chat/blob/main/hexbubble_odd.png);
 background-repeat: no-repeat;
 background-size: 100% 340%;
 background-position: 0% 62%;
@@ -198,7 +198,7 @@ display: block;
 padding:40px 50px;
 top:-10px;
 left:10px;
-background-image: url(https://cdn.discordapp.com/attachments/1142801979865845860/1192092784069447740/175_20240103221049.png?ex=65a7d1eb&is=65955ceb&hm=71910a4f97b11955cf8b9f55b31731aa1dfd79088564a27f2526fa0dc85483ab&);
+background-image: url(https://github.com/ironrat07/custum_chat/blob/main/icon_accessory.png);
 background-repeat:no-repeat;
 background-position:right 3px top 11px;
 background-size:140%;
