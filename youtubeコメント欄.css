@@ -13,7 +13,7 @@
 body {
 overflow: hidden;
 background-color: rgba(0,0,0,0);
-background-image: url(https://github.com/ironrat07/custum_chat/blob/main/chat_background_image.png);
+background-image: url(https://ironrat07.github.io/custum_chat/chat_background_image.png);
 background-repeat: no-repeat;
 background-size:850px 460px;
 background-position:-70px 9px;
@@ -67,7 +67,7 @@ background:transparent;
 /*本文背景*/
 
 yt-live-chat-text-message-renderer #message{
-background-image: url(https://github.com/ironrat07/custum_chat/blob/main/hexbubble_even.png);
+background-image: url(https://ironrat07.github.io/custum_chat/hexbubble_even.png);
 background-repeat: no-repeat;
 background-size: 100% 330%;
 background-position: 0% 58%;
@@ -79,7 +79,7 @@ padding-bottom: 20px;
 
 /*一個おき指定*/
 yt-live-chat-app yt-live-chat-text-message-renderer:nth-child(odd) #message {
-background-image: url(https://github.com/ironrat07/custum_chat/blob/main/hexbubble_odd.png);
+background-image: url(https://ironrat07.github.io/custum_chat/hexbubble_odd.png);
 background-repeat: no-repeat;
 background-size: 100% 340%;
 background-position: 0% 62%;
@@ -198,7 +198,7 @@ display: block;
 padding:40px 50px;
 top:-10px;
 left:10px;
-background-image: url(https://github.com/ironrat07/custum_chat/blob/main/icon_accessory.png);
+background-image: url(https://ironrat07.github.io/custum_chat/icon_accessory.png);
 background-repeat:no-repeat;
 background-position:right 3px top 11px;
 background-size:140%;
